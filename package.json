@@ -1,7 +1,7 @@
 {
   "name": "accounts-app",
   "version": "0.1.0",
-  "homepage": "https://luffhuang.github.io/Accounts",
+  "homepage": "https://luffhuang/github.io/Accounts",
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
